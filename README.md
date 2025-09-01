@@ -1,20 +1,28 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Mainak+Sutradhar!;Passionate+Developer;Tech+Explorer+%7C+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&width=500&lines=Hi%2C+I'm+Mainak+Sutradhar!;💻+Passionate+Developer;🚀+Tech+Explorer;🌱+Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
 ### 🔧 Tech Stack  
-- **Languages**: C, C++, Python, Java  
-- **Web**: HTML, CSS, JavaScript  
-- **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code  
 
----
+#### 👨‍💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
-### 📊 GitHub Analytics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mainak25&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mainak25&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mainak25&theme=radical)  
+#### 🌐 Frontend 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+#### 🛢️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+#### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -31,12 +39,19 @@ A community-driven platform that:
 
 ---
 
+### 📖 What I'm Learning  
+- 🌱 Currently exploring **React.js** for modern web apps  
+- ⚡ Improving **Data Structures & Algorithms (DSA)**  
+- ☁️ Interested in **Cloud & DevOps basics**  
+
+---
+
 ### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-sutradhar-ms25/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/mainak_2501)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mainak_2501/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Mainak25)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainaksutradhar001@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-sutradhar-ms25/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mainak_2501)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mainak_2501/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mainak25)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainaksutradhar001@gmail.com)  
 
 ---
 
@@ -45,5 +60,5 @@ A community-driven platform that:
 
 ---
 
-### ⚡ Fun Fact  
-_"Code. Coffee. Repeat."_ ☕💻  
+### ⚡ Quote of the Day  
+_"First, solve the problem. Then, write the code."_ – John Johnson  
