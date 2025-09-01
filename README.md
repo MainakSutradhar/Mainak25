@@ -1,65 +1,86 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&width=500&lines=Hi%2C+I'm+Mainak+Sutradhar!;💻+Passionate+Developer;🚀+Tech+Explorer;🌱+Lifelong+Learner)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mainak+Sutradhar+%F0%9F%91%8B;Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mainak-sutradhar-ms25/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/mainak_2501" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:mainaksutradhar001@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+   <a href="https://www.instagram.com/mainak_2501/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
-### 🔧 Tech Stack  
+### 👨‍💻 About Me
 
-#### 👨‍💻 Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+I'm a passionate developer from India, with a strong foundation in programming and web technologies. I enjoy building solutions that solve real-world problems and have a positive impact on the community.
 
-#### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-#### 🛢️ Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-#### ⚙️ Tools & IDEs  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
+* 🌱 I’m currently exploring advanced concepts in **[Mention a technology you're learning, e.g., Cloud Computing with AWS]**.
+* 💬 Ask me about **C++, Java, Python, and Web Development**.
+* 📫 You can reach me at **mainaksutradhar001@gmail.com**.
+* ⚡ Fun fact: I believe a line of code can change the world.
 
 ---
 
-### 📌 Featured Project  
+### 🛠️ My Tech Stack
 
-#### 🚑 [MediLoop – Medication Sharing & Donation Platform](https://mediloop.wuaze.com/)  
-
-🔶 **About MediLoop**  
-A community-driven platform that:  
-✅ Enables safe donation of unused, non-expired medicines  
-✅ Connects NGOs, clinics, and individuals in need with donors  
-✅ Engages volunteers for pickup & delivery  
-✅ Ensures verified and secure redistribution of life-saving medicines  
-
----
-
-### 📖 What I'm Learning  
-- 🌱 Currently exploring **React.js** for modern web apps  
-- ⚡ Improving **Data Structures & Algorithms (DSA)**  
-- ☁️ Interested in **Cloud & DevOps basics**  
+<p align="center">
+  <strong>Languages:</strong><br>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%23-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <br><br>
+  <strong>Frontend & Database:</strong><br>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
 
 ---
 
-### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-sutradhar-ms25/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mainak_2501)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mainak_2501/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mainak25)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainaksutradhar001@gmail.com)  
+### 🚀 Project Spotlight: MediLoop
+
+<p align="center">
+  <p><strong>A community-driven platform for medication sharing and donation.</strong></p>
+  
+  ✅ Enables safe donation of unused, non-expired medicines. <br>
+  ✅ Connects NGOs, clinics, and individuals in need with donors. <br>
+  ✅ Engages volunteers for pickup & delivery. <br>
+  ✅ Ensures verified and secure redistribution of life-saving medicines.
+
+  <br>
+  
+  <p>
+    <strong>Tech Stack:</strong>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+  </p>
+  
+  <a href="https://mediloop.wuaze.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=for-the-badge&logo=link" />
+  </a>
+</p>
 
 ---
 
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/Mainak25/Mainak25/blob/output/github-contribution-grid-snake.svg)  
+### 📊 My GitHub Stats
 
----
-
-### ⚡ Quote of the Day  
-_"First, solve the problem. Then, write the code."_ – John Johnson  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mainak's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
