@@ -1,86 +1,38 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mainak+Sutradhar+%F0%9F%91%8B;Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /></a>
-</p>
+# Mainak Sutradhar
+*Software Developer | C++, Java, Python, Web Technologies*
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mainak-sutradhar-ms25/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/mainak_2501" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:mainaksutradhar001@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-   <a href="https://www.instagram.com/mainak_2501/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+A dedicated and versatile developer with a strong foundation in object-oriented programming, data structures, and web development. Passionate about leveraging technology to build impactful applications and contribute to meaningful projects.
+
+[LinkedIn](https://www.linkedin.com/in/mainak-sutradhar-ms25/) • [Email](mailto:mainaksutradhar001@gmail.com) • [Twitter](https://x.com/mainak_2501)
 
 ---
 
-### 👨‍💻 About Me
+### Core Competencies
 
-I'm a passionate developer from India, with a strong foundation in programming and web technologies. I enjoy building solutions that solve real-world problems and have a positive impact on the community.
-
-* 🌱 I’m currently exploring advanced concepts in **[Mention a technology you're learning, e.g., Cloud Computing with AWS]**.
-* 💬 Ask me about **C++, Java, Python, and Web Development**.
-* 📫 You can reach me at **mainaksutradhar001@gmail.com**.
-* ⚡ Fun fact: I believe a line of code can change the world.
+* **Languages:** C, C++, Python, Java
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Databases:** MySQL
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Management
 
 ---
 
-### 🛠️ My Tech Stack
+### Featured Project
 
-<p align="center">
-  <strong>Languages:</strong><br>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%23-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  <br><br>
-  <strong>Frontend & Database:</strong><br>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</p>
+#### MediLoop - Medication Sharing & Donation Platform
+A community-driven web application designed to facilitate the safe and secure redistribution of unused medicines to those in need.
+
+* **Description:** MediLoop connects donors with unused, non-expired medication to a verified network of NGOs and clinics. The platform coordinates with volunteers to manage the pickup and delivery logistics, ensuring life-saving medicines don't go to waste.
+* **Key Features:**
+    * ✅ Secure donor and recipient registration.
+    * ✅ Volunteer coordination module for logistics.
+    * ✅ Inventory management for donated medicines.
+    * ✅ Connects NGOs, clinics, and individuals with donors.
+* **Technology Stack:** HTML, CSS, JavaScript, MySQL, [Your Backend Language, e.g., PHP/Python/Node.js]
+* **Live Demo:** **[mediloop.wuaze.com](https://mediloop.wuaze.com/)**
 
 ---
 
-### 🚀 Project Spotlight: MediLoop
+### Professional Experience & Education
 
-<p align="center">
-  <p><strong>A community-driven platform for medication sharing and donation.</strong></p>
-  
-  ✅ Enables safe donation of unused, non-expired medicines. <br>
-  ✅ Connects NGOs, clinics, and individuals in need with donors. <br>
-  ✅ Engages volunteers for pickup & delivery. <br>
-  ✅ Ensures verified and secure redistribution of life-saving medicines.
-
-  <br>
-  
-  <p>
-    <strong>Tech Stack:</strong>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-  </p>
-  
-  <a href="https://mediloop.wuaze.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=for-the-badge&logo=link" />
-  </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mainak's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+* *Currently seeking full-time opportunities in software development.*
+* **[Your University/College Name]** - [Your Degree, e.g., Bachelor of Technology in Computer Science] | [Years]
