@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer from Payradanga, West Bengal, India, with a strong foundation in programming and web technologies. I enjoy building solutions that solve real-world problems and have a positive impact on the community.
+I'm a passionate developer from Kolkata, West Bengal, India, with a strong foundation in programming and Web Development. I enjoy building solutions that solve real-world problems and have a positive impact on the community.
 
-* 🌱 I’m currently exploring advanced concepts in **Docker and containerization**.
+* 🌱 I’m currently exploring advanced concepts in **React.js, Data Structures & Algorithms, Cloud & DevOps**.
 * 💬 Ask me about **C++, Java, Python, and Web Development**.
 * 📫 You can reach me at **mainaksutradhar001@gmail.com**.
 * ⚡ Fun fact: I believe a line of code can change the world.
@@ -57,6 +57,7 @@ I'm a passionate developer from Payradanga, West Bengal, India, with a strong fo
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
 </p>
 
