@@ -21,11 +21,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer from Kolkata, West Bengal, India, with a strong foundation in programming and Frontend development. I enjoy building solutions that solve real-world problems and have a positive impact on the community.
+I'm a passionate developer from Payradanga, West Bengal, India, with a strong foundation in programming and web technologies. I enjoy building solutions that solve real-world problems and have a positive impact on the community.
 
-* 🌱 I’m currently exploring **React.js – building dynamic user experiences  
-    Data Structures & Algorithms – optimizing logic and performance  
-    Cloud & DevOps  – exploring deployment and CI/CD pipelines  **.
+* 🌱 I’m currently exploring advanced concepts in **Docker and containerization**.
 * 💬 Ask me about **C++, Java, Python, and Web Development**.
 * 📫 You can reach me at **mainaksutradhar001@gmail.com**.
 * ⚡ Fun fact: I believe a line of code can change the world.
@@ -45,4 +43,32 @@ I'm a passionate developer from Kolkata, West Bengal, India, with a strong found
   <strong>Frontend & Database:</strong><br>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
+
+---
+
+### 🚀 Project Spotlight: MediLoop
+
+<p align="center">
+  <p><strong>A community-driven platform for medication sharing and donation.</strong></p>
+  
+  ✅ Enables safe donation of unused, non-expired medicines. <br>
+  ✅ Connects NGOs, clinics, and individuals in need with donors. <br>
+  ✅ Engages volunteers for pickup & delivery. <br>
+  ✅ Ensures verified and secure redistribution of life-saving medicines.
+
+  <br>
+  
+  <p>
+    <strong>Tech Stack:</strong>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+  </p>
+  
+  <a href="https://mediloop.wuaze.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-View_Live-%23306998?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live Demo">
+  </a>
+</p>
